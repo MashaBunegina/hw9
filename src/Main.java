@@ -24,7 +24,7 @@ public class Main {
             }
         }
         System.out.println("Минимальная сумма трат за день составила" + min + "рублей");
-        System.out.println("Максимальная сумма трат за день составила" + max + "рублей");
+        System.out.println("Максимальная сумма трат за день составила" + max + "Рублей");
         double averageExpence = (double) sum / expenses.length;
         System.out.println(" Средняя сумма трат за месяц составила" + averageExpence);
         char[] reverseFullName = {'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
